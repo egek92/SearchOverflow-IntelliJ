@@ -5,6 +5,10 @@
 
 ## How to install
 
+ALWAYS USE THE STABLE AND LATEST VERSION OF THIS PLUGIN, IF THERE IS A VERSION WAITING FOR UPDATE JUST WAIT.
+It is tested in IntelliJ IDEA and Android Studio, might be unstable in other Jetbrains platforms such as PyCharm. 
+In which case [report issues](https://github.com/egek92/SearchOverflow-IntelliJ/issues).
+
 - in Android Studio or any other IntelliJ IDE: go to `Preferences → Plugins → Browse repositories` and search for `SearchOverflow`
 
 _or_
