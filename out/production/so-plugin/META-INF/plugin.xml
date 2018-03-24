@@ -1,0 +1,39 @@
+<idea-plugin>
+  <id>us.egek.searchstackoverflow</id>
+  <name>SearchOverflow</name>
+  <version>1.0.3</version>
+  <vendor email="ege@disroot.org">Ege Kuzubasioglu</vendor>
+
+  <description><![CDATA[
+     Search your code in Stackoverflow with just one click
+    ]]></description>
+
+  <change-notes><![CDATA[
+      Release v1.0.3
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+
+  <actions>
+    <group id="GoToStackOverFlowGroup">
+      <add-to-group group-id="EditorPopupMenu" anchor="first"/>
+      <add-to-group group-id="ConsoleEditorPopupMenu" anchor="first"/>
+      <action class="SearchStackoverflow" id="SearchStackoverflow"
+          text="Search on Stackoverflow"
+          description="Click and Search the code on Stackoverflow"/>
+    </group>
+  </actions>
+
+</idea-plugin>
