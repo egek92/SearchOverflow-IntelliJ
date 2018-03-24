@@ -20,7 +20,7 @@ _or_
 
 ## How to use it
 
- ![](.gif)
+ ![](https://media.giphy.com/media/cRLjyeHh4WgRwSTTDN/giphy.gif)
 
  1. Make sure you have latest version of your IDE
  2. Select the text, code snippet or error message and right-click
