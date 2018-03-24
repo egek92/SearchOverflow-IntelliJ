@@ -11,6 +11,8 @@ In which case [report issues](https://github.com/egek92/SearchOverflow-IntelliJ/
 
 - in Android Studio or any other IntelliJ IDE: go to `Preferences → Plugins → Browse repositories` and search for `SearchOverflow`
 
+![](screen.png)
+
 _or_
 
 - [download it](https://plugins.jetbrains.com/plugin/10551-searchoverflow) and install via `Preferences → Plugins → Install plugin from disk`
