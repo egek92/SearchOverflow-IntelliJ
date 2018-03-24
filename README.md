@@ -1,6 +1,7 @@
 # SearchOverflow
 
-[IntelliJ](https://www.jetbrains.com/products.html) Platform plugin for searching code snippets, keywords or errors on http://www.stackoverflow.com/ with just a click.
+[IntelliJ](https://www.jetbrains.com/products.html) Platform plugin for searching code snippets, keywords or errors on
+[Stackoverflow](http://www.stackoverflow.com/) with just a click.
 
 ## How to install
 
@@ -22,6 +23,14 @@ _or_
 ## Contributing
 
 Pull requests are welcomed!
+
+I'm planning to add more features like sub-menus for advanced search
+
+
+- Using [actions sytem](https://www.jetbrains.org/intellij/sdk/docs/basics/action_system.html), make 2 sub-menus `search in questions`, `search in title`.
+- Stackoverflow uses `is:question` and `is:title` query tags for this.
+
+
 
 - make sure you stick to clean coding and Java naming conventions.
 - follow [Getting Started with Plugin Development](http://confluence.jetbrains.com/display/IDEADEV/Getting+Started+with+Plugin+Development)
