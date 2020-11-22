@@ -20,7 +20,6 @@ _or_
 
 ## How to use it
 
- ![](https://media.giphy.com/media/cRLjyeHh4WgRwSTTDN/giphy.gif)
 
  1. Make sure you have latest version of your IDE
  2. Select the text, code snippet or error message and right-click
@@ -44,7 +43,7 @@ I'm planning to add more features like sub-menus for advanced search
 
 ## LICENCE
 
-
+```
                MIT LICENCE
                
 Copyright (c) 2018 Ege Kuzubasioglu
@@ -69,6 +68,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
+```
 
 
